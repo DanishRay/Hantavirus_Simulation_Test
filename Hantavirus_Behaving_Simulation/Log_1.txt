@@ -1,4 +1,4 @@
-Hantavirus Behavior Simulation Model Test 1 Log
+Hantavirus_Simulation_1.py Log
 Date: May 8, 2026
 _________________________________________________________
 Simulation Parameters
