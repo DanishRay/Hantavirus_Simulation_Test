@@ -1,0 +1,26 @@
+Hantavirus Behavior Simulation Model Test 1 Log
+Date: May 8, 2026
+_________________________________________________________
+Simulation Parameters
+
+Total Cell Population : 200 healthy cells (susceptible)
+Environment : 3D tissue volume (20 x 20 x 20 units)
+Viral Entry Logic : Proximity-based binding to B3 Integrin receptors
+Internal Replication Delay : 15 ticks  (Cap-snatching and RNA synthesis phase)
+
+______________________________________________________________________________
+Time Conversion Date
+
+Animation Time = 40 seconds
+Computational Ticks = 400 Ticks
+Equivalent to Real-Time = 50 Days (1.5 months estimation)
+
+* Note - This scaling assumes that one viral incubation cycle in the script (15 ticks) represents approximately 48 hours of real-time activity
+
+______________________________________________________________________________________
+Observed Behavior
+
+Initial Condition : One cell was introduced as infectious
+Transmission Pattern : The virus moved from the initial point in a 3D wave
+Incubation Phase : Cells consistently turned yellow (exposed) for 15 ticks before becoming active spreaders
+Final Result? : At the 400 tick mark (approx. 40 second), the virus successfully transitioned through the tissue, exposing and infecting the target population of 200 cells
