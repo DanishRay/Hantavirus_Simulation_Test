@@ -23,16 +23,3 @@ The simulation uses mathematical logic to determine the probability of infection
 ## Ongoing Development
 
 This project is updated frequently. Future updates will refine the movement models and add more variables regarding the physical environment. 
-
-## Requirements
-
-To run the simulations, you will need:
-* Python 3.x
-* NumPy
-* Matplotlib
-
-## How to Run
-
-1.  Download the repository files.
-2.  Run the desired simulation script (e.g., `Hantavirus_Simulation_1.py` or `Hantavirus_Simulation_2.py`).
-3.  Observe the real-time data and visual state changes in the generated window.
