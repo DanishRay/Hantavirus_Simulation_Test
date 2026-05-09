@@ -1,6 +1,6 @@
 # Hantavirus Behavior Simulation
 
-This repository contains a technical simulation focused on the movement and infection patterns of the Hantavirus at a cellular level. The project models how the virus interacts with healthy cells and spreads within a controlled tissue environment.
+This sub-repository contains a technical simulation focused on the movement and infection patterns of the Hantavirus at a cellular level. The project models how the virus interacts with healthy cells and spreads within a controlled tissue environment.
 
 ## Project Scope
 
