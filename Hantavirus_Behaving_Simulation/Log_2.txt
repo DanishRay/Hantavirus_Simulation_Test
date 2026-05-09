@@ -1,0 +1,29 @@
+Hantavirus_Simulation_2.py Log
+Date 9th May 2026
+________________________________________________________
+Simulation Findings Log
+
+Virions Travel Time :-
+The virus particles (virions) move from the infected source cell to the healthy target cell over a period of 72 hours (approx.. 3.0 days)
+
+Incubation Phase :-
+The Exposed state occurs as soon as the particles touch the target cell radius.
+The transition from the exposed phase to the infectious (shedding) phase happens very quickly.
+The simulation reaches the final infectious state almost immediately after the first contact.
+
+Clock and Timeline Behavior :- 
+The simulation clock stops as soon as the target cell becomes infectious
+The final recorded simulation time reflects the point when the cell begins shedding new virus particles
+
+__________________________________________________________________
+Model Acknowledgements
+
+Visual Representation :- 
+The model uses a simple 2D graph to represent the environment
+Cells are represented as circles, and virions are represented as small dots
+
+The model is a basic simulation and does not contain high-level biological details
+
+Simulation Intent :-
+The purpose of this model is to show the process of how one cell infects another nearby cell
+It tracks the movement of particles and the change in the state of the target cell
