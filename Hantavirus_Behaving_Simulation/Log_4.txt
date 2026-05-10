@@ -1,0 +1,42 @@
+Hantavirus_Simulation_3-5.py Log
+Date 10th may 2026
+___________________________________________________
+Simulation Data Summary
+- Simulation Time : 43:14 Hours
+- Endothelial Cells : 34 / 378
+- Shedding Cells (Infected) : 323
+- Virions Count : 10029
+- Active Immune Cells : 4
+___________________________________________________
+Observation
+
+- Cell State Transition : 
+Over the 43 hour period, 91% of the healthy endothelial cells transitioned
+to an infected state. The majority of these cells are currently in the shedding phase, activity producing
+new viral particles.
+
+- Viral Population Growth :
+The virion count reached 10029. This growth is linked to the high number of shedding cells releasing virus 
+particles into the environment through budding
+
+- Immune System Efficiency :
+The 4 immune cells moved toward chemical signals (chemotaxis). However, the rate of cell destruction (apoptosis)
+is significantly lower than the rate of viral replication
+
+- Signal Delay :
+Sensors (RIG-I and MDA5) within the cells only triggered interferon alarms after the virus begin replication.
+This delay allowed the virus establish a high population before immune detection began
+
+_________________________________________________________
+Insights
+
+- Vascular Impact :
+The high ratio of infected to healthy cells indicates widespread damage to the endothelial layer
+
+- Immune Lag :
+The average human parameters used in this simulation show a significant time gap between initial infection
+and effective immune response
+
+- Simulation Result :
+The virus successfully bypassed early cellular defenses, leading to a state of high viral load and 
+vascular compromise within the 43-hour time.
